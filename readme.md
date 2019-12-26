@@ -1,6 +1,6 @@
 
 
-First of all have a brief look at xda threads about compiling rom from source dont follow all stuff from there tho.. just have a look on those threads specially that jackeagle thread. 
+
 
 now first what you need :
     If on local
