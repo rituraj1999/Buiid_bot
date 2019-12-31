@@ -172,9 +172,4 @@ brunch nitrogen_kenzo-userdebug
 to start build ... 
 
 
-after that wait for several hours to get compiled and you can see they will tell you where the rom is stored as .zip in output folder ... 
-Tip: as you go further dont forget to learn gerrit and cherry-picking.. and reading errors .. 
-
-I've found a good group to learn in telegram as @Android_Building ...
-
-Havefun!! keep learning!
+after that wait for several hours to get compiled and you can see they will tell you where the rom is stored as .zip in output folder
