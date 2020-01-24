@@ -1,16 +1,4 @@
-
-
-
-
-now first what you need :
-    If on local
-   -> Fast internet connection (fast enough to download 50GB rom source without waiting for a day or two xD )
-   -> 4core cpu(or higher)
-   -> 8gb minimum ram 
-   -> Linux (Ubuntu for this guide)
-   -> storage : 80GB + 50 to 100GB (rom source(approx) + Compiling space and ccache)
-   if using ssh or cloud
- then above specs + more spec wiill be cool.. 
+ 
 
 Now what is buildbot ?
 - this guide wont make you developer you can become buildbot which is making rom frrom source with already made sources such as device tree and fixes for such stuff .. inshort total kanging lmao xD... 
