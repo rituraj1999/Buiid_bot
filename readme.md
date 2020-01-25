@@ -142,7 +142,7 @@ breakfast lineage_mido-userdebug
 
 
 there are 2 ways to bringup breakfast and lunch 
-eg. lunch aicp_kenzo-userdebug 
+eg. lunch aicp_mido-userdebug 
 
 then you can see your device info on screen ... 
 if not and saw some errors like romname_devicename not found 
@@ -156,7 +156,7 @@ or
 make otapackage(for aosp roms such as aosp-caf)
 
 sometimes u need to add like this too 
-brunch nitrogen_kenzo-userdebug 
+brunch nitrogen_mido-userdebug 
 to start build ... 
 
 
